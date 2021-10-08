@@ -1,0 +1,46 @@
+.heading{
+    text-align: center;
+    font-family: cursive;
+    letter-spacing: 5px;
+}
+
+.test_image_and_result
+{
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px gray;
+    background: lightblue;
+}
+
+#phul{
+    height: 150px;
+}
+
+#Test_IMG_1{
+    border: 2px solid peachpuff;
+    border-radius: 20px;
+    background: peachpuff;
+    color: blue;
+}
+#Test_IMG_2{
+    border: 2px solid peachpuff;
+    border-radius: 20px;
+    background: peachpuff;
+    color: blue;
+}#Test_IMG_3{
+    border: 2px solid peachpuff;
+    border-radius: 20px;
+    background: peachpuff;
+    color:blue;
+}#Test_IMG_4{
+    border: 2px solid peachpuff;
+    border-radius: 20px;
+    background: peachpuff;
+    color:blue;
+    
+}#Test_IMG_5{
+    border: 2px solid peachpuff;
+    border-radius: 20px;
+    background: peachpuff;
+    color: blue;
+}
